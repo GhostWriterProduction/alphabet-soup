@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <resources>
     <string name="app_name">AlphabetSoup</string>
 </resources>
+=======
+<resources>
+
+    <string name="app_name">AlphabetSoup</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
+>>>>>>> 0a57b32fce10ca079123e5eeeab6cd98b9c69470
