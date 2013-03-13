@@ -1,0 +1,24 @@
+asses
+inGame will keep track of game state, and in game events. 
+sprite will control the information for the items that will be displayed on the screen
+endGame will end the game and submit information, gathered as well as scoreboard.
+teaching this class will have a set of instructions to cycle through groups of four, while keeping a counter to reinforce previously learned items.
+statisticsTracker keeping track of the users knowledge, and how well they are performing. This will be used to report that information to the person who is signed up for the child. This will allow, a selling advantage.
+
+
+
+
+
+Asset             Menu               Objects             Events 	
+
+
+
+notes
+Needs to be cartoon style, 
+bouncing
+lots of color
+
+sprite sheet will need to have hi res and low res for different devices.
+sound files
+there needs to be lots of quirky little sounds, maybe even a theme song playing in the background.
+
